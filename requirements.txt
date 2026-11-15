@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pytest
+httpx
+pandas
+numpy
+evidently==0.4.40
